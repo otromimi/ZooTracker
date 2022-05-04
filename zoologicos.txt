@@ -1,0 +1,8 @@
+ZZZ00#Acuatico#ceuta#1236.199951#12#1236.229980#daniel#
+ZZZ22#Terrestre#nevadelly#125.000000#2#1235.000000#rassid#
+ZZZ33#Terrestre#kabul#124.000000#12#523.000000#mohamed#
+ZZZ44#Terrestre#camberra#452.000000#52#2310.000000#steffany#
+ZZZ00#Acuatico#oman#1236.199951#2#1236.229980#luis#
+ZYZ22#Terrestre#nevadelly#125.000000#2#1235.000000#rassid#
+ZKZ33#Acuatico#kabul#124.000000#3#53.000000#raghid#
+ZTZ44#Terrestre#pyonyang#452.000000#52#2310.000000#kinn#

@@ -1,0 +1,14 @@
+FF-000#S#H#Aves#pavo real#12/12/1212#alpha#
+FF-111#S#H#Reptiles#boa constrictor#12/12/1212#brabo#
+FF-222#S#M#Aves#pavo real#12/12/1212#charlie#
+FF-333#S#M#Peces#guppy#12/12/1212#delta#
+FF-444#S#H#Anfibios#rana toro#12/12/1212#echo#
+FF-555#S#M#Anfibios#salamandra gigante#12/12/1212#foxtrot#
+FF-666#S#H#Mamiferos#capibara#12/12/1212#golf#
+FF-000#S#H#Anfibios#saltador fango#12/12/1212#hotel#
+FF-111#S#H#Aves#pavo real#12/12/1212#india#
+FF-222#S#M#Aves#cernicalo comun#12/12/1212#julliet#
+FF-333#S#M#Aves#azulon#12/12/1212#kilo#
+FF-444#S#H#Anfibios#rana toro#12/12/1212#lima#
+FF-555#S#M#Anfibios#saltador fango#12/12/1212#mama#
+FF-666#S#H#Peces#black bass#12/12/1212#november#
